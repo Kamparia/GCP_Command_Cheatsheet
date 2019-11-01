@@ -1,6 +1,6 @@
 # DevOps - GCP Commands Cheatsheet
 
-Table of Contents
+## Table of Contents
 =================
 * [References](#references)
 * [Other cheatsheets](#other-cheatsheets)
@@ -57,7 +57,7 @@ Table of Contents
 * [Machine Learning](#machine-learning)
 * [Deployment Manager](#deployment-manager)
 
-## References
+### References
 * [have fun with them](https://cloudplatform.googleblog.com/2016/06/filtering-and-formatting-fun-with.html)
 * [projections](https://cloud.google.com/sdk/gcloud/reference/topic/projections)
 * [filters](https://cloud.google.com/sdk/gcloud/reference/topic/filters)
@@ -68,10 +68,10 @@ Table of Contents
 * https://medium.com/@Joachim8675309/getting-started-with-gcloud-sdk-part-2-4d049a656f1a
 * https://gist.github.com/bborysenko/97749fe0514b819a5a87611e6aea3db8
 
-## Other cheatsheets
+### Other cheatsheets
 * https://github.com/dennyzhang/cheatsheet-gcp-A4
 
-## multiple gcloud config configurations
+### multiple gcloud config configurations
 * https://www.jhanley.com/google-cloud-understanding-gcloud-configurations/
 * https://medium.com/infrastructure-adventures/working-with-multiple-environment-in-gcloud-cli-93b2d4e8cf1e
 
